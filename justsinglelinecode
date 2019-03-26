@@ -1,0 +1,6 @@
+https://developers.google.com/maps/documentation/javascript/adding-a-google-map
+
+just copy paste the iframe tag from google map location(Embed) URL : https://www.google.com/maps After reaching location go on left menu 
+Click on Shared or embed map that copy the embed map tag and paste to your file where you exactly want..
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7540.0289464473035!2d72.8760159726198!3d19.10702098608057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c86c163a72bf%3A0xafe0a1b161381038!2sDecure.in!5e0!3m2!1sen!2sin!4v1553586908529" width="600" height="450" frameborder="0" allowfullscreen=""></iframe>
